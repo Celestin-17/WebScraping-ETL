@@ -8,4 +8,6 @@ This Python application automates the process of extracting, transforming and st
 
 - For process tracking and error handling, the app logs every step of the process in code_log.txt, including any exceptions or issues that may arise, with detailed timestamps for efficient debugging and monitoring.
 
-
+# Screenshots
+<img src="screenshots/db.png" alt="My Image" width="400"> <img src="screenshots/logs.png" alt="My Image" height="320">
+<img src="screenshots/currency.png" alt="My Image" width="400">
